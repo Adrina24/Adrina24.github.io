@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.adrina24.twa",
+    "sha256_cert_fingerprints": ["94:E8:D6:98:22:9F:A2:C6:F1:66:36:78:B2:45:3A:07:EF:4D:F1:1A:7F:EB:B0:1F:C6:03:02:7E:31:62:D7:D0"]
+  }
+}]
